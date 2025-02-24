@@ -67,14 +67,13 @@ body {
 h1 {
   font-size: 3rem;
   color: #faffff;
-  font-weight: 600;
+  font-weight: 500;
   border-bottom: 0.25rem solid #008753;
   display: inline-block;
 }
 
 .random-password {
   color: #008753;
-  font-weight: 500;
 }
 
 /* Input */
@@ -164,6 +163,7 @@ input {
     width: 90vw;
     min-width: 5rem;
     font-size: 1rem;
+    padding-block: 1rem;
   }
 
   .fa-copy,
